@@ -1,0 +1,42 @@
+Banks around the world are realising that in the rapidly developing world of smartphones and apps they are at risk of falling behind in the innovation race.
+Fresh-faced financial technology start-ups (fintechs) are coming up with new mobile-first services - payments, loans, money transfers, digital currencies - and threatening to steal customers, particularly younger ones.
+Investment bank Goldman Sachs estimates that $4.7tn (£3.3tn; €4.1tn) in revenue for traditional financial services is at risk of being displaced by these fintech upstarts.
+"From Amazon's transformation of the retail sector, to Uber's revolution in personal transportation, banks are taking heed of what is happening in other industries," says Mohit Joshi, global head of financial services at tech consultancy, Infosys.
+"The biggest banking market challenge is coming not from challenger banks, but from fintech start-ups."
+This is why many old banks have been flirting with younger models in an effort to stay hip. But are such apparently mismatched relationships doomed to failure?
+'Vibrant community'
+At the southern tip of Africa, in Cape Town, global banking giant Barclays is busy developing a secret tech solution to make it easier for consumers to make payments online.
+But it has called on the expertise of local tech start-up Peach Payments to help, and the two are working on a product aiming to change the way people transact online in emerging markets.
+Rahul Jain, co-founder of Peach Payments, says: "We are helping them actually design the product since we have the feedback from the market and understand e-commerce from the perspective of the merchant and the consumer.
+'Invaluable feedback'
+"This is invaluable feedback which the bank doesn't have normally."
+From the bank's point of view, "it's about recognising that not all innovation has to happen within our own four walls," says Lubaina Manji, head of Barclays' group innovation office.
+"There is a talented and vibrant start-up community globally, which Barclays can work with to co-create the future of financial services."
+Peach Payments was one of 10 start-ups to participate in a 13-week Tech Lab Africa accelerator programme hosted by Barclays in Cape Town in December.
+The bank also runs programmes and hubs in the UK, USA, and Israel, and has plans to launch activities in India and Lithuania.
+Another start-up taking part in the programme was Nigerian firm Aella Credit, which has built an instant loan approval and payment platform that relies on data analytics to identify creditworthy borrowers.
+Aella Credit director Akinola Jones says his firm has remained in constant communication with Barclays' innovation team since taking part in the programme.
+But sceptics will point out that Barclays' recent decision to sell its Africa operations shows that such partnerships may be more to do with playing catch-up than leading from the front.
+Threat or opportunity?
+All those attractive fintech start-ups may appear tempting, but there is no consensus among the big beasts on the best way to get a piece of the action.
+Some banks, such as Santander, National Bank of Australia and Citigroup, are providing venture funding and seed investments for fintechs.
+Others, such as Barclays, Bank of America, and Sberbank, are creating or partnering with start-up incubator programmes.
+Others still, like Spain's BBVA, are simply buying them up.
+"We're yet to see which type of approach will prove the most fruitful, but industry experts are unanimous in their belief that those banks which bury their heads in the sand and fail to acknowledge the impact of fintechs are putting their entire business at risk," says Vincent Bastid, chief executive of Efma, a research and networking organisation for financial institutions.
+Efma has just produced a report looking at the impact of fintechs on the established financial services industry.
+'Poison the well'
+In a similar example, French bank BNP Paribas has linked up with Swiss fintech accelerator, Fusion - a partnership the bank says is "at the heart" of its digitisation plan.
+Based in Geneva, Fusion takes on 10 start-ups each year, and puts them through a 12-month intensive programme of mentoring, funding, and access to markets.
+Kim Potvin, chief operating officer at BNP Paribas (Suisse), believes the partnership is already yielding tangible results, and will help its Swiss arm become "a leading player in the financial services of the future."
+Fusion's programme director Sebastien Flury describes the partnership as a "win-win" situation, with benefits for banks and start-ups alike.
+But if all this sounds a little too cosy, entrepreneur Daniel Doderlein, chief executive of Norwegian cloud-based mobile payments platform Auka, has this stark warning for fellow fintech start-ups.
+"If you partner with banks too early on, they can basically poison the well for you - you effectively become a consultant. They take the air out of the innovation balloon and the project dies instantly."
+By building his own platform, mCash, and establishing a consumer business first, Mr Doderlein found he was then able to sell it to initially sceptical banks from a position of strength. Norway's Sparebank 1 bought the mCash business in October last year.
+And Gareth Mellon of research firm Frost & Sullivan warns that the jury is out on just how effective such partnerships are.
+Many are purely "defensive strategies" by the banks, he says, and have proved difficult to integrate within existing business models.
+"While fintechs have brought heightened innovation, they remain limited in their scope and, in many ways, are forced to rely upon the established players to ensure market adoption," says Mr Mellon.
+'Bloodbath'
+Perhaps the biggest threat to banks, in Europe at least, is the European Commission's forthcoming Payment Services Directive 2, due to come into force early in 2018.
+This aims to open up electronic payments to more competition by forcing banks to open up their IT systems to new entrants, thus encouraging innovation.
+"If you don't provide a mobile payments app to your customers, your risk being marginalised," says Mr Doderlein. "It's going to be a bloodbath."
+Perhaps the banks need tech start-ups more than tech start-ups need the banks.

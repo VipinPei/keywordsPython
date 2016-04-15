@@ -1,0 +1,96 @@
+标题：VOA慢速英语附字幕：Want to Choose Better Words? 
+
+听力内容：
+
+Our words matter.
+
+Our words have always mattered, but they matter more now that the Internet gives us the power to make our words permanently public.
+
+Words might help or hurt someone. Our words may have more power than we believe them to have when we use them.
+
+Yet how many people truly think about every word they write?
+
+Two new extensions for the Chrome browser can help you choose your words.
+
+One extension, called reword, highlights words that have the power to hurt others. The other, called Just Not Sorry, will show you when your words take away your power.
+
+Both extensions are free and work only with the Chrome browser.
+
+reword
+
+Reword is an extension that helps show what words can be harmful. When users type a word, phrase or sentence that seems insulting, abusive, or hurtful, a red line will cross the word or words.
+
+The extension is similar to a spell checker. Reword does not block words. It simple alerts users to language that might offend.
+
+An Australian team developed reword to combat cyberbullying. The developers realized that people, especially children, may not understand which words might deeply affect others.
+
+The developers' testing showed that 79 percent of children changed their words when prompted to by reword.
+
+Chris Tanti is a developer of reword. He praised how it can, in his words, “change online behavior by stopping insults in the moment before they are posted.”
+
+A video on YouTube shows the thinking behind reword.
+
+The reword website permits users to add words they think should be included in the extension.
+
+The reword extension is free. It can be found at the Google Chrome store.
+
+Just Not Sorry
+
+Just Not Sorry is a Chrome extension that is, in many ways, the opposite of reword. Reword is meant to soften language. Just Not Sorry is designed to empower language.
+
+Developers at the company Cyrus Innovation created Just Not Sorry. They said some people weaken their messages by using apologetic words. So they invented a tool that highlights such words in a writing.
+
+Just Not Sorry works only in Gmail, as a Chrome extension.
+
+It works like this: When a message is created in Gmail, Just Not Sorry will highlight the words that weaken the message.
+
+A dotted orange line will appear below the weak words. Examples of such words include "sorry," "just," "I think," and "I'm no expert." An explanation of why the words were highlighted will also appear.
+
+Users can then choose to change the words or not. The words will not be highlighted in the copy sent.
+
+Just Not Sorry is also available at no cost from the Google Chrome store.
+
+I'm Caty Weaver.
+
+Carolyn Mohr wrote this report for VOA Learning English. Caty Weaver was the editor.
+
+Do you think these highlights would be helpful to change the language people use? Share your thoughts in the Comments section below or on our Facebook page!
+
+________________________________________________________________
+
+Words in This Story
+
+extension - n. a small software program that can be added on to a browser
+
+browser - n. a computer program that is used to find and look at information on the Internet
+
+spell checker - n. a computer program that finds and corrects misspelled words in documents, e-mail, etc.
+
+cyberbully - v. the use of electronic communication to bully a person, typically by sending messages of an intimidating or threatening nature.
+
+prompt - v. to cause (someone) to do something 
+
+ 
+
+************更多资料请访问VOA英语学习网（www.tingvoa.com）************
+
+VOA慢速英语新闻听力（VOA Special English），每天更新： 
+http://www.tingvoa.com/SpecialEnglish/
+
+VOA常速英语新闻听力（VOA Standard English），每天更新： 
+http://www.tingvoa.com/StandardEnglish/
+
+BBC英语新闻听力，每天更新： 
+http://www.tingvoa.com/BBC/
+
+CNN英语新闻听力，每天更新： 
+http://www.tingvoa.com/CNN/
+
+CRI英语新闻听力，每天更新： 
+http://www.tingvoa.com/CRI/
+
+NPR英语新闻听力，每天更新： 
+http://www.tingvoa.com/NPR/
+
+AP NEWS英语新闻听力，每天更新： 
+http://www.tingvoa.com/AP/

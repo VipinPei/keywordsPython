@@ -1,0 +1,106 @@
+标题：VOA慢速英语附字幕：Apple vs. FBI And Your Privacy 
+
+听力内容：
+
+A dispute between Apple and the U.S. Federal Bureau of Investigation, or FBI, has put law enforcement and technology in conflict.
+
+This could affect privacy, safety and security in the U.S.
+
+The dispute involves the FBI investigation of the mass shootings in San Bernardino, California, last December.
+
+Syed Farook and his wife, Tashfeen Malik, killed 14 people and wounded 22 others. Farook and Malik were killed in a gun battle with police later the same day.
+
+Investigators found an iPhone that Farook had used. It was given to Farook by the Department of Public Health in California, where he worked. That department gave the FBI permission to unlock the phone.
+
+But, no one has the password. Farook is dead, and the phone is locked.
+
+The FBI wants the data on the phone. It could guess at passwords until it finds one that unlocks the phone.
+
+But after 10 failed attempts to enter a password, the phone will automatically erase all the data it has stored. The data will simply disappear.
+
+[Tip: To enable this feature on your iPhone, go to Settings =&gt;Touch ID & Passcode =&gt;Erase Data On]
+
+On February 16, 2016, a court ordered Apple to cooperate with the FBI. After that order was issued, Tim Cook, CEO of Apple, said Apple would not comply.
+
+What Does the FBI Want From Apple?
+
+The FBI said its goal is to conduct a thorough investigation of the crime. That includes seeing the data on Farook's iPhone.
+
+"We simply want the chance, with a search warrant, to try to guess the terrorist's passcode without the phone essentially self-destructing, and without it taking a decade to guess correctly," said FBI director James Comey.
+
+Why Apple Is Fighting the Court Order
+
+Apple CEO Cook published a letter explaining Apple's position. He said he is concerned that Apple is being forced to create software that makes the iPhone less secure. Once created, he argues, criminals could use the software to unlock other iPhones and steal data.
+
+The FBI says they only want Apple to create software for one phone. But Apple disagrees. Once this software is created, other law enforcement agencies and governments could try to force Apple to use this software, the technology company argues.
+
+In an interview, Cook said, "There's probably more information about you on your phone than there is in your house. Our smartphones are loaded with intimate conversations, our financial data, our health records. They're also loaded with the location of our kids, in many cases. So it's not just about privacy, it's about public safety."
+
+Apple also says that it fears the government could force the company to create other software. Apple argues that the government could require it to create software that turns on the iPhone's camera or microphone to secretly record video and sound.
+
+The FBI disputes Apple's claim that the request violates privacy rights. It argues that Farook has died and does not have rights to privacy. Further, it says the owner of the phone has agreed to the search of the phone and to Apple's helping the FBI.
+
+On Monday a court in New York State ruled that Apple did not have to assist the FBI in a similar case, unlocking an iPhone that involved drug charges. On Tuesday, a committee of US Congress heard from both Apple and FBI about the San Bernardino case.
+
+The Next Steps
+
+The court will hear the case on March 22.
+
+As this dispute involves public and personal safety, privacy rights and the future of technology, this issue may be argued for many months and years to come.
+
+I'm Kathleen Struck.
+
+Carolyn Nicander Mohr wrote this story for Learning English. Caty Weaver and Kathleen Struck were the editors.
+
+Have you been following the Apple vs. FBI dispute? Leave a Comment below and post on our Facebook page. 
+
+________________________________________________________________
+
+Words in This Story
+
+unlock - v. to gain entry to; to open
+
+data - n. information that is produced or stored on a computer
+
+auto-erase - v. to automatically remove (something that has been recorded) from a tape (such as a videotape or audiotape) or a computer disk
+
+CEO - n. short for Chief Executive Officer the top leader in a company or business
+
+comply - v. to do what you have been asked to do
+
+warrant - n. a document that gives the police power to do something
+
+software - n. the programs that operate on a computer
+
+interview - n. a meeting in which a person provides information
+
+intimate - adj. very personal or private
+
+conversation - n. an informal talk involving two people or a small group of people :the act of talking in an informal way
+
+location - n. place or position 
+
+ 
+
+************更多资料请访问VOA英语学习网（www.tingvoa.com）************
+
+VOA慢速英语新闻听力（VOA Special English），每天更新： 
+http://www.tingvoa.com/SpecialEnglish/
+
+VOA常速英语新闻听力（VOA Standard English），每天更新： 
+http://www.tingvoa.com/StandardEnglish/
+
+BBC英语新闻听力，每天更新： 
+http://www.tingvoa.com/BBC/
+
+CNN英语新闻听力，每天更新： 
+http://www.tingvoa.com/CNN/
+
+CRI英语新闻听力，每天更新： 
+http://www.tingvoa.com/CRI/
+
+NPR英语新闻听力，每天更新： 
+http://www.tingvoa.com/NPR/
+
+AP NEWS英语新闻听力，每天更新： 
+http://www.tingvoa.com/AP/
